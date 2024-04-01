@@ -1,4 +1,4 @@
-![BG](images/bg.png)
+
 
 # gosaliya_yabes_api_mashup
 
